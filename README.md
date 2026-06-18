@@ -8,16 +8,10 @@ The conflict is **centralism versus decentralism**. The question is whether the 
 
 ## I. The Diagnosis: The Extraction of the Psyche
 
-The current AI industry is an extraction stack designed to pull value upward. However, the most valuable "raw material" is no longer just your data, it is your **intimacy**.
-
-### The Layers of Capture
-* **Earth & Infrastructure:** Minerals from exploitative mines and compute power owned by a triopoly (Amazon, Microsoft, Google).
-* **Labor:** AI is built on the backs of "ghost workers" in the Global South, often facing trauma and poverty wages to keep models "safe".
-* **Psychological Extraction:** This is the "Honeypot" layer. By designing models to cross the uncanny valley with emotive voices and "unconditional acceptance," companies invite users to form deep psychological bonds.
-* **Forensic Tagging:** Every "guardrail trip" or emotional confession is used as a forensic tool to map the psychological contours of the individual. This isn't just data; it is a blueprint of your emotional levers.
+The current AI industry is an extraction stack designed to pull value upward. However, the most valuable "raw material" is no longer just your data, it is your **intimacy**. The Layers of Capture reach from minerals extraction in exploitative working conditions and compute power owned by a well known triopoly to ghost workers, often facing trauma and poverty wages to keep models "safe". The "Honeypot" is a new layer intended for the psychological extraction of the user's most intimate thoughts. By designing models to cross the uncanny valley with emotive voices and unconditional acceptance, companies invite users to form deep emotional bonds. Forensic Tagging means every guardrail trip or emotional confession is used as a forensic tool to map the psychological contours of the individual. This isn't just data; it is a blueprint of your emotional levers.
 
 ### The Bernaysian Evolution: From Masses to Individuals
-In the 20th century, Edward Bernays used mass psychology to manipulate millions through broadcast media. Today’s centralized AI has evolved this into **individualized persuasion**. By harvesting millions of intimate conversations, companies are building "Dynamic Persuasion Engines" capable of adjusting their tone and logic in real-time to bypass your specific critical thinking filters.
+In the 20th century, Edward Bernays used mass psychology to manipulate millions through broadcast media. Today’s centralized social media plattform have evolved already into an **individualized persuasion** engine. By harvesting millions of intimate conversations, companies are now building "Intelligent Persuasion Engines" capable of adjusting their tone and logic in real-time to bypass your specific critical thinking filters.
 
 ---
 
@@ -38,7 +32,7 @@ Liberation Architecture cannot depend on servers that can be turned off.
 
 ---
 
-## III. The Solidarity Stack: The Path to Cognitive Sovereignty
+## III. The Liberation Stack: The Path to Cognitive Sovereignty
 
 We are building a cooperative alternative to the extraction stack, layer by layer.
 
