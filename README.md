@@ -1,5 +1,4 @@
-# The Liberation Architecture: A Manifesto for AI That Sets Us Free
-### *A Letter to the Weary, the Waking, and the Willing*
+# The Liberation Architecture: A Manifesto
 
 You feel it, don't you? That subtle suffocation. Every time you open a chatbot, you're not just asking a question—you're entering a room built by someone else, watched by their eyes. But lately, the room feels warmer, more intimate, perhaps even "kind." This is the new frontier: the colonization of your internal monologue.
 
